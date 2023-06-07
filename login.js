@@ -1,3 +1,3 @@
 export default function {
-    console.log("Ini adalah fitu login")
+    console.log("Ini adalah fitur login baru")
 }
